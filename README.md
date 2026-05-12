@@ -1,0 +1,1 @@
+this is a project i completed in my spare time which uses many elements of Java to create an interactive database in which a user can add, edit, delete and save details of a book to a jpanel interface which allows the developer to filter through a vast database of books.
